@@ -109,11 +109,9 @@ This project performs an Exploratory Data Analysis (EDA) of the **Spotify Charts
 1. Clone the repo: `git clone https://github.com/YourUsername/spotify-charts-analysis.git`  
 2. Install required Python packages (example):
    pip install pandas numpy matplotlib jupyter
-Open the EDA notebook: notebooks/spotify_eda.ipynb and run the cells.
-
-Open the Power BI file (powerbi/spotify_dashboard.pbix) in Power BI Desktop to explore interactive visualizations.
-
-Read report/spotify_report.pdf for the summarized insights and recommendations.
+3. Open the EDA notebook: notebooks/spotify_eda.ipynb and run the cells.
+4. Open the Power BI file (powerbi/spotify_dashboard.pbix) in Power BI Desktop to explore interactive visualizations.
+5. Read report/spotify_report.pdf for the summarized insights and recommendations.
 
 🏁 Conclusion
 The Spotify Charts analysis highlights how temporal and regional factors shape streaming trends. The combination of Python-led EDA and Power BI dashboards provides a robust workflow for transforming raw streaming data into actionable insights for artists, platforms, and marketers.
