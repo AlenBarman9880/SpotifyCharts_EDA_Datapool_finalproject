@@ -113,6 +113,7 @@ This project performs an Exploratory Data Analysis (EDA) of the **Spotify Charts
 4. Open the Power BI file (powerbi/spotify_dashboard.pbix) in Power BI Desktop to explore interactive visualizations.
 5. Read report/spotify_report.pdf for the summarized insights and recommendations.
 
-🏁 Conclusion
+## 🏁 Conclusion
+
 The Spotify Charts analysis highlights how temporal and regional factors shape streaming trends. The combination of Python-led EDA and Power BI dashboards provides a robust workflow for transforming raw streaming data into actionable insights for artists, platforms, and marketers.
 
